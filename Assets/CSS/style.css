@@ -59,3 +59,62 @@ body {
 .avaliacao__3 {
   margin-left: 2rem;
 }
+
+.fundo {
+  margin-top: 50px;
+}
+
+.cartao__avaliacao {
+  display: flex;
+  /* justify-content: center; */
+}
+
+.cartao {
+  width: 300px;
+  height: 150px;
+  background-color: #511f50;
+  margin-right: 1rem;
+  padding: 20px 15px;
+  border-radius: 8px;
+}
+
+.perfil {
+  display: flex;
+  align-items: center;
+}
+
+.perfil img {
+  width: 50px;
+  height: auto;
+  border-radius: 100%;
+  margin-right: 1rem;
+}
+
+.perfil h3 {
+  font-size: .9rem;
+  color: #f7f2f8;
+  margin-bottom: 5px;
+}
+
+.perfil h5 {
+  font-size: .5rem;
+  color: hsl(303, 10%, 53%);
+}
+
+.depoimento p {
+  font-size: .8rem;
+  color: #f7f2f8;
+  margin-top: 10px;
+  line-height: 1.1rem;
+}
+
+.cartao__avaliacao-2 {
+  margin-top: 1rem;
+}
+
+.cartao__avaliacao-3 {
+  margin-top: 2rem;
+}
+
+
+
